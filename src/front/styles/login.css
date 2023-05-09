@@ -1,0 +1,107 @@
+HTML {
+    height: 100%;
+  }
+  
+    body {
+      min-height: 100%;
+      /* background: -webkit-linear-gradient(bottom, #f9b551,#FEF8BE ); */
+      background-image: url(https://pbs.twimg.com/media/FfMKkXeWYAA9kcV?format=jpg&name=medium);
+      /* background-image: url(https://pbs.twimg.com/media/FfL0r9TXwAAAc5d?format=png&name=900x900); */
+      background-position: center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+    }
+  
+    main { 
+      margin-left: 100px
+    }
+  
+    label {
+      font-family: "Raleway", sans-serif;
+      font-size: 15pt;
+    }
+  
+  #containerLogSign {
+    margin-left: 200px;
+    justify-content: center;
+    
+  }
+  
+    #forgot-pass {
+      color: #e79315;
+      font-family: "Raleway", sans-serif;
+      font-size: 15pt;
+      margin-top: 3px;
+      text-align: right;
+    }
+  
+    #card {
+      background: #fbfbfb;
+      border-radius: 8px;
+      box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+      height: 500px;
+      margin: 6rem auto 8.1rem auto;
+      
+      width: 700px;
+    }
+    #card-content {
+      padding: 12px 44px;
+      width: 700px;
+    }
+    #card-title {
+      font-family:Georgia, f'Times New Roman', Times, seri ;
+      letter-spacing: 1px;
+      padding-bottom: 23px;
+      padding-top: 13px;
+      text-align: center;
+    }
+    #signup {
+      color: #000000;
+      font-family: "Raleway", sans-serif;
+      font-size: 15pt;
+      margin-top: 16px;
+      text-align: center;
+    }
+    #submit-btn {
+      background: -webkit-linear-gradient(right, #e4aa22, #c57b19);
+      border: none;
+      border-radius: 21px;
+      box-shadow: 0px 1px 8px #e6ff25;
+      cursor: pointer;
+      color: white;
+      font-family: "Raleway SemiBold", sans-serif;
+      height: 42.3px;
+      margin: 0 auto;
+      margin-top: 50px;
+      transition: 0.25s;
+      width: 153px;
+    }
+    #submit-btn:hover {
+      box-shadow: 0px 1px 18px #ff9900;
+    }
+    .form {
+      align-items: left;
+      display: flex;
+      flex-direction: column;
+    }
+    .form-border {
+      background: -webkit-linear-gradient(right, #e4aa22, #c57b19);
+      height: 1px;
+      width: 100%;
+    }
+    .form-content {
+      background: #fbfbfb;
+      border: none;
+      outline: none;
+      padding-top: 14px;
+    }
+  
+    #navbar {
+      position:absolute;
+      bottom: 0;
+      text-align: center;
+      margin-left: 40%;
+    }
+  
+    

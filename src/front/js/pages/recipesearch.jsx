@@ -1,5 +1,5 @@
 import React from "react";
-import SearchBar from "../component/searchbar.jsx";
+import SearchBar from "../component/searchbar.jsx"; 
 import BookData from '../../../../data.json';
 
 const RecipeSearch = ()=>{

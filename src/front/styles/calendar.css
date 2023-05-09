@@ -1,0 +1,30 @@
+#calendarCol{
+    background: white;
+    max-width: 185px;
+    height: 650px;
+    margin: 10px;
+    border-radius: 25px;
+  }
+
+.dayHeader {
+    background-color: #d66262;
+    width: 185px;
+    height: 75px;
+    text-align: center;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.meal {
+    background-color: #9affff;
+    width: 170px;
+    height: 125px;
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 7.5px;
+    border-radius: 25px;
+}
+
+.mealpicked {
+    background: #6af5f5;
+}

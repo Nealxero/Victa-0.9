@@ -1,0 +1,55 @@
+#CardAccount {
+ 
+    margin-left: 350px;
+    margin-top: 50px ;
+    width: 600px;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.65);
+    border-width: thin;
+    border-color:  rgb(0, 0, 0) ;
+    height: auto;
+    border-radius: 8px;
+    background: -webkit-linear-gradient(top, #f9b551,#FEF8BE );
+    /* background-image: url(https://pbs.twimg.com/media/FfL0r9TXwAAAc5d?format=png&name=900x900); */
+    padding: 10px;
+    align-self: center;
+    padding-bottom: 0;
+  }
+  
+  #CardTitle {
+    font-family: "Raleway SemiBold", sans-serif;
+    font-size: 30px;
+    letter-spacing: 1px;
+    text-align: center;
+  }
+  #passbtn {
+    margin-top: 20px;
+    background: -webkit-linear-gradient(top, #ea8c00, #fed400);
+    border: Black;
+    box-shadow: 0px 1px 8px #e6ff25;
+    cursor: pointer;
+    color: white;
+    font-family: "Raleway SemiBold", sans-serif;
+    height: 42.3px;
+    transition: 0.25s;
+    width: 153px;
+  }
+  #passbtn:hover {
+    box-shadow: 0px 1px 18px #ff9900;
+  }
+  #emailbtn {
+    margin-top: 20px;
+    background: -webkit-linear-gradient(top, #ea8c00, #fed400);
+    border: Black;
+    box-shadow: 0px 1px 8px #e6ff25;
+    cursor: pointer;
+    color: white;
+    font-family: "Raleway SemiBold", sans-serif;
+    height: 42.3px;
+    transition: 0.25s;
+    width: 153px;
+  }
+  #emailbtn:hover {
+    box-shadow: 0px 1px 18px #ff9900;
+  }
+  
+  
